@@ -13,13 +13,6 @@
     />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Bolivia-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Perfil-Software%20Engineer-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Perfil-Systems%20Engineer-0B1220?style=for-the-badge" />
-</p>
-
 <hr>
 
 <!-- ===================== -->
@@ -29,15 +22,10 @@
 <div style="border:1px solid #30363d; border-radius:14px; padding:18px; background:#0b1220;">
   <h2 style="margin-top:0;">Perfil profesional</h2>
   <p>
-    Soy <b>Ingeniero de Sistemas</b> y estudiante de <b>Ingeniería Biomédica</b> (inicio 2026), con enfoque en el diseño y desarrollo de
-    sistemas tecnológicos aplicados a salud, educación, servicios y soluciones inteligentes.
-    Construyo <b>sistemas web modernos</b>, <b>plataformas full stack</b> y <b>sistemas experimentales</b>, con arquitectura modular,
-    buenas prácticas y enfoque en impacto real.
+Soy Ingeniera de Sistemas graduada, orientada al diseño e implementación de sistemas de software complejos. Cuento con experiencia en desarrollo de sistemas web, plataformas SaaS, aplicaciones progresivas y sistemas de información con control de accesos, seguridad y arquitectura modular. Me enfoco en crear soluciones escalables, confiables y bien estructuradas, con interés en proyectos profesionales, académicos y trabajo freelance.
   </p>
   <p>
-    Me interesan especialmente <b>HealthTech</b>, automatización, sistemas de información, integración de APIs, IoT aplicado y, a futuro, <b>neuroingeniería</b>.
-    Busco oportunidades donde pueda aportar con criterio técnico, responsabilidad y liderazgo; además de fortalecer mi perfil para
-    <b>empresas</b> y <b>programas de becas</b>.
+Soy Ingeniera de Sistemas graduada, orientada al diseño e implementación de sistemas de software complejos. Cuento con experiencia en desarrollo de sistemas web, plataformas SaaS, aplicaciones progresivas y sistemas de información con control de accesos, seguridad y arquitectura modular. Me enfoco en crear soluciones escalables, confiables y bien estructuradas, con interés en proyectos profesionales, académicos y trabajo freelance.
   </p>
 </div>
 
@@ -45,15 +33,12 @@
 
 <div style="border:1px solid #30363d; border-radius:14px; padding:18px; background:#0b1220;">
   <h2 style="margin-top:0;">Professional profile (English)</h2>
-  <p>
-    I am a <b>Systems Engineer</b> and a <b>Biomedical Engineering student</b> (starting 2026), focused on building technology for healthcare,
-    education, services and intelligent systems. I develop <b>modern web systems</b>, <b>full stack platforms</b> and <b>experimental solutions</b>
-    using modular architectures, solid engineering practices and real-world impact as a priority.
+  <p> 
+I am a  Systems Engineer, focused on the design and implementation of complex software systems. I have experience developing web systems, SaaS platforms, progressive web applications, and information systems with access control, security, and modular architecture. I am focused on building scalable, reliable, and well-structured solutions, with interest in professional projects, academic work, and freelance opportunities.
   </p>
   <p>
-    My interests include <b>HealthTech</b>, automation, information systems, API integration, applied IoT, and future work in <b>neuroengineering</b>.
-    I am seeking professional and academic opportunities to contribute with technical rigor and leadership, and to strengthen my profile for
-    <b>companies</b> and <b>scholarship programs</b>.
+I am a  Systems Engineer, focused on the design and implementation of complex software systems. I have experience developing web systems, SaaS platforms, progressive web applications, and information systems with access control, security, and modular architecture. I am focused on building scalable, reliable, and well-structured solutions, with interest in professional projects, academic work, and freelance opportunities.
+
   </p>
 </div>
 
