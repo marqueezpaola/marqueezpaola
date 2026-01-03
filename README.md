@@ -1,262 +1,255 @@
-<!-- ===================== -->
-<!--  GitHub Profile README -->
-<!--  User: alexmarqueeez   -->
-<!-- ===================== -->
+<!--
+Profile README for: alexmarqueeez
+Estilo: limpio, formal, sin emojis
+-->
 
 <h1 align="center">Hola, soy Alex Márquez</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=700&color=00C2FF&center=true&vCenter=true&width=820&height=60&lines=HealthTech;Desarrollo+Full+Stack;Liderazgo;Emprendimiento"
-      alt="Typing SVG"
-    />
-  </a>
+  <img src="https://img.shields.io/badge/HealthTech-0B1220?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Desarrollo_Full_Stack-0B1220?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Liderazgo-0B1220?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Emprendimiento-0B1220?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Bolivia-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Perfil-Software%20Engineer-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Perfil-Systems%20Engineer-0B1220?style=for-the-badge" />
+  <a href="PON_AQUI_TU_LINK_LINKEDIN">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="PON_AQUI_TU_LINK_GITHUB_PAGES">Website</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:PON_AQUI_TU_EMAIL">Email</a>
 </p>
 
-<hr>
+<br/>
 
-<!-- ===================== -->
-<!--  ABOUT / SOBRE MI     -->
-<!-- ===================== -->
-
-<div style="border:1px solid #30363d; border-radius:14px; padding:18px; background:#0b1220;">
-  <h2 style="margin-top:0;">Perfil profesional</h2>
+<!-- =======================
+     DESCRIPCIÓN (ES / EN)
+======================== -->
+<div align="center">
   <p>
-    Soy <b>Ingeniero de Sistemas</b> y estudiante de <b>Ingeniería Biomédica</b> (inicio 2026), con enfoque en el diseño y desarrollo de
-    sistemas tecnológicos aplicados a salud, educación, servicios y soluciones inteligentes.
-    Construyo <b>sistemas web modernos</b>, <b>plataformas full stack</b> y <b>sistemas experimentales</b>, con arquitectura modular,
-    buenas prácticas y enfoque en impacto real.
+    Soy estudiante de Ingeniería en Sistemas en la Universidad Católica Boliviana “San Pablo” (Sede Tarija) e inicio Ingeniería Biomédica en 2026.
+    Desarrollo sistemas web y soluciones orientadas a automatización, software empresarial y HealthTech, con proyección hacia neuroingeniería.
+    Busco oportunidades donde pueda aportar con disciplina, criterio técnico y trabajo orientado a resultados.
   </p>
   <p>
-    Me interesan especialmente <b>HealthTech</b>, automatización, sistemas de información, integración de APIs, IoT aplicado y, a futuro, <b>neuroingeniería</b>.
-    Busco oportunidades donde pueda aportar con criterio técnico, responsabilidad y liderazgo; además de fortalecer mi perfil para
-    <b>empresas</b> y <b>programas de becas</b>.
+    I’m a Systems Engineering student at Universidad Católica Boliviana “San Pablo” (Tarija) and I start Biomedical Engineering in 2026.
+    I build web systems and software solutions focused on automation, business software, and HealthTech, with a long-term interest in neuroengineering.
+    I’m open to opportunities where I can deliver reliable engineering work with clear results.
   </p>
 </div>
 
-<br>
+<br/>
 
-<div style="border:1px solid #30363d; border-radius:14px; padding:18px; background:#0b1220;">
-  <h2 style="margin-top:0;">Professional profile (English)</h2>
-  <p>
-    I am a <b>Systems Engineer</b> and a <b>Biomedical Engineering student</b> (starting 2026), focused on building technology for healthcare,
-    education, services and intelligent systems. I develop <b>modern web systems</b>, <b>full stack platforms</b> and <b>experimental solutions</b>
-    using modular architectures, solid engineering practices and real-world impact as a priority.
-  </p>
-  <p>
-    My interests include <b>HealthTech</b>, automation, information systems, API integration, applied IoT, and future work in <b>neuroengineering</b>.
-    I am seeking professional and academic opportunities to contribute with technical rigor and leadership, and to strengthen my profile for
-    <b>companies</b> and <b>scholarship programs</b>.
-  </p>
+<!-- =======================
+     ÁREAS DE INTERÉS (cards)
+======================== -->
+<h2 align="left">Áreas de interés</h2>
+
+<div>
+  <table>
+    <tr>
+      <td width="33%">
+        <div>
+          <b>HealthTech y sistemas clínicos</b><br/>
+          Sistemas hospitalarios, gestión de equipos biomédicos, trazabilidad, auditoría y soporte a decisiones.
+        </div>
+      </td>
+      <td width="33%">
+        <div>
+          <b>Desarrollo Full Stack</b><br/>
+          Arquitectura modular, UI/UX, APIs, seguridad básica y productos web escalables.
+        </div>
+      </td>
+      <td width="33%">
+        <div>
+          <b>Sistemas inteligentes experimentales</b><br/>
+          Prototipos con análisis de datos e integración de sensores para escenarios aplicados.
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%">
+        <div>
+          <b>IoT (nivel aplicado)</b><br/>
+          ESP32, sensores ambientales, GPS e integración con dashboards y servicios web.
+        </div>
+      </td>
+      <td width="33%">
+        <div>
+          <b>Producto y emprendimiento</b><br/>
+          Construcción de MVPs, validación, mejoras por iteración y enfoque usuario-valor.
+        </div>
+      </td>
+      <td width="33%">
+        <div>
+          <b>Seguridad y datos sensibles</b><br/>
+          Buenas prácticas en acceso por roles, protección de datos y diseño responsable.
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
+<br/>
 
-<!-- ===================== -->
-<!--  LINKS / CONTACT       -->
-<!-- ===================== -->
-
-<p align="center">
-  <a href="TU_LINK_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="TU_LINK_GITHUB_PAGES_PORTAFOLIO_AQUI"><img src="https://img.shields.io/badge/Website-0B1220?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:TU_CORREO_AQUI"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<hr>
-
-<!-- ===================== -->
-<!--  INTERESTS (CONTAINERS) -->
-<!-- ===================== -->
-
-<h2>Áreas de interés</h2>
-
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <div style="border:1px solid #30363d; border-radius:12px; padding:10px 12px; background:#0b1220;">Sistemas automatizados</div>
-  <div style="border:1px solid #30363d; border-radius:12px; padding:10px 12px; background:#0b1220;">Desarrollo web y plataformas</div>
-  <div style="border:1px solid #30363d; border-radius:12px; padding:10px 12px; background:#0b1220;">HealthTech y sistemas clínicos</div>
-  <div style="border:1px solid #30363d; border-radius:12px; padding:10px 12px; background:#0b1220;">Sistemas educativos seguros</div>
-  <div style="border:1px solid #30363d; border-radius:12px; padding:10px 12px; background:#0b1220;">IoT aplicado (ESP32, sensores, GPS)</div>
-  <div style="border:1px solid #30363d; border-radius:12px; padding:10px 12px; background:#0b1220;">Neuroingeniería (línea futura)</div>
-</div>
-
-<br>
-
-<!-- ===================== -->
-<!--  TOP PROJECTS (CARDS)  -->
-<!--  Estilo similar a tu img 3 -->
-<!-- ===================== -->
-
-<h2>Top Projects</h2>
+<!-- =======================
+     TOP PROJECTS (cards)
+     Formato tipo imagen: repo cards
+======================== -->
+<h2 align="left">Proyectos destacados</h2>
 
 <p>
   <a href="https://github.com/alexmarqueeez/siie-elba">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=siie-elba&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=siie-elba&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/alexmarqueeez/swg-library">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=swg-library&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=swg-library&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/alexmarqueeez/plataform-pet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=plataform-pet&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=plataform-pet&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/alexmarqueeez/swie-bioscan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=swie-bioscan&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/alexmarqueeez/swg-biomedical">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=swg-biomedical&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/alexmarqueeez/swie-cervix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=swie-cervix&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/alexmarqueeez/his-hospital">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=his-hospital&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/alexmarqueeez/his-clinical">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=his-clinical&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/alexmarqueeez/pa-gea">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=pa-gea&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
-<p align="right">
-  <a href="https://github.com/alexmarqueeez?tab=repositories">All projects</a>
-</p>
+<details>
+  <summary><b>Ver más repositorios sugeridos para “Destacados”</b></summary>
 
-<hr>
+  - HealthTech: his-clinical, his-hospital, swg-biomedical
+  - Biomédica experimental: swie-cervix, swie-bioscan
+  - Sistemas web y SaaS: saas-legal, swi-service, swg-perfumery
+  - IoT / smart systems: sci-smartcity, sci-flood-alert, sih-pet
+  - Educación / seguridad: pwa-secure-education, swe-education
 
-<!-- ===================== -->
-<!--  SKILLS (LIKE IMG 4)   -->
-<!-- ===================== -->
+</details>
 
-<h2>Skills</h2>
+<br/>
+
+<!-- =======================
+     SKILLS (containers)
+======================== -->
+<h2 align="left">Skills</h2>
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <h3>Website</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react,nextjs" />
-      </p>
+    <td width="50%">
+      <b>Lenguajes</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,js,html,css,java&theme=dark" />
     </td>
-    <td valign="top" width="50%">
-      <h3>Programming</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,java,php,nodejs,flask" />
-      </p>
+    <td width="50%">
+      <b>Frameworks y librerías</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,flask,tailwind,sass&theme=dark" />
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
-      <h3>Database</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
-        <img src="https://img.shields.io/badge/Supabase-0B1220?style=for-the-badge&logo=supabase&logoColor=white" />
-      </p>
+    <td width="50%">
+      <b>Bases de datos</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase&theme=dark" />
     </td>
-    <td valign="top" width="50%">
-      <h3>Tools</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-      </p>
+    <td width="50%">
+      <b>Herramientas y trabajo</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
     </td>
   </tr>
 </table>
 
-<h3>Operating Systems</h3>
+<br/>
+
+<h3 align="left">Sistemas operativos</h3>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu,kali" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali&theme=dark" />
 </p>
 
-<hr>
+<br/>
 
-<!-- ===================== -->
-<!--  EDUCATION (CONTAINERS + LOGO) -->
-<!-- ===================== -->
+<!-- =======================
+     EDUCATION (containers + logo)
+======================== -->
+<h2 align="left">Education</h2>
 
-<h2>Education</h2>
-
-<p align="left">
-  <!-- Logo UCB: si tienes uno oficial en tu repo, mejor usarlo desde /assets/ucb.png -->
-  <!-- Si no, reemplaza por una imagen tuya o elimina esta línea -->
-  <img src="TU_LOGO_UCB_AQUI" alt="UCB" height="52" />
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Universidad_Cat%C3%B3lica_Boliviana_San_Pablo_logo.svg/512px-Universidad_Cat%C3%B3lica_Boliviana_San_Pablo_logo.svg.png" height="54" alt="UCB San Pablo"/>
 </p>
 
-<div style="display:flex; flex-wrap:wrap; gap:12px;">
-  <div style="border:1px solid #30363d; border-radius:14px; padding:14px; background:#0b1220; min-width:260px;">
-    <b>Universidad Católica Boliviana “San Pablo” – Sede Tarija</b><br>
-    Ingeniería de Sistemas<br>
-    Estado: Finalizada
-  </div>
+<table>
+  <tr>
+    <td width="50%">
+      <b>Bolivia</b><br/>
+      Universidad Católica Boliviana “San Pablo” — Sede Tarija
+    </td>
+    <td width="50%">
+      <b>Formación</b><br/>
+      Ingeniería de Sistemas (en curso / final de carrera)<br/>
+      Ingeniería Biomédica (inicio 2026)
+    </td>
+  </tr>
+</table>
 
-  <div style="border:1px solid #30363d; border-radius:14px; padding:14px; background:#0b1220; min-width:260px;">
-    <b>Universidad Católica Boliviana “San Pablo” – Sede Tarija</b><br>
-    Ingeniería Biomédica<br>
-    Estado: Inicio 2026
-  </div>
+<h3 align="left">Idiomas</h3>
 
-  <div style="border:1px solid #30363d; border-radius:14px; padding:14px; background:#0b1220; min-width:260px;">
-    <b>Idiomas</b><br>
-    Español: Nativo<br>
-    Inglés: B1
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <b>Español</b><br/>
+      Bilingüe (idioma principal)
+    </td>
+    <td width="50%">
+      <b>English</b><br/>
+      B1
+    </td>
+  </tr>
+</table>
 
-<hr>
+<br/>
 
-<!-- ===================== -->
-<!--  ACHIEVEMENTS (like img 7, contrast B/W) -->
-<!-- ===================== -->
+<!-- =======================
+     LOGROS (trophies, estilo claro)
+======================== -->
+<h2 align="left">Logros</h2>
 
-<h2>Logros</h2>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=alexmarqueeez&theme=flat&no-frame=true&row=1&column=7" />
+</p>
 
+<details>
+  <summary><b>Hitos relevantes (selección)</b></summary>
+
+  - Hackathon: NASA Space Apps Challenge (proyecto: pa-gea).
+  - Emprendimiento: iniciativa de plataforma para mascotas (plataform-pet / PetGuard).
+  - Sistemas completos: biblioteca educativa (swg-library), sistemas hospitalarios (his-hospital / his-clinical).
+
+</details>
+
+<br/>
+
+<!-- =======================
+     GRÁFICO (activity graph)
+======================== -->
+<h2 align="left">Actividad</h2>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexmarqueeez&theme=github-compact&hide_border=true" />
+</p>
+
+<br/>
+
+<!-- =======================
+     FOOTER
+======================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Liderazgo%20estudiantil-0B1220?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Emprendimiento%20tecnol%C3%B3gico-0B1220?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hackathons%20y%20prototipos-0B1220?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/HealthTech%20%7C%20Sistemas%20cl%C3%ADnicos-0B1220?style=for-the-badge&logoColor=white" />
+  <sub>Copyright © 2026</sub>
 </p>
-
-<div style="border:1px solid #30363d; border-radius:14px; padding:16px; background:#0b1220;">
-  <ul>
-    <li>Portafolio con proyectos de Ingeniería de Software, HealthTech, IoT y sistemas experimentales.</li>
-    <li>Participación en iniciativas académicas, institucionales y de emprendimiento.</li>
-    <li>Enfoque en control de accesos por rol, modularidad, y soluciones listas para contexto real.</li>
-  </ul>
-</div>
-
-<hr>
-
-<!-- ===================== -->
-<!--  GRAPH (like img 8)    -->
-<!-- ===================== -->
-
-<h2>Activity Graph</h2>
-
-<p>
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=alexmarqueeez&theme=tokyo-night&hide_border=true"
-    alt="Activity Graph"
-  />
-</p>
-
-<hr>
-
-<!-- ===================== -->
-<!--  STATS (Optional, clean) -->
-<!-- ===================== -->
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alexmarqueeez&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexmarqueeez&theme=tokyonight&hide_border=true" />
-</p>
-
-<hr>
-
-<p align="center">© 2026 — Alex Márquez</p>
