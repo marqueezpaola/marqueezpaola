@@ -26,17 +26,6 @@ Soy Ingeniera de Sistemas graduada, orientada al diseño e implementación de si
   </p>
 </div>
 
-<br>
-
-<div style="border:1px solid #30363d; border-radius:14px; padding:18px; background:#0b1220;">
-  <h2 style="margin-top:0;">Professional profile (English)</h2>
-  <p> 
-I am a  Systems Engineer, focused on the design and implementation of complex software systems. I have experience developing web systems, SaaS platforms, progressive web applications, and information systems with access control, security, and modular architecture. I am focused on building scalable, reliable, and well-structured solutions, with interest in professional projects, academic work, and freelance opportunities.
-  </p>
-</div>
-
-<br>
-
 <!-- ===================== -->
 <!--  LINKS / CONTACT       -->
 <!-- ===================== -->
