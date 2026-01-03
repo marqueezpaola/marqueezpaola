@@ -24,9 +24,6 @@
   <p>
 Soy Ingeniera de Sistemas graduada, orientada al diseño e implementación de sistemas de software complejos. Cuento con experiencia en desarrollo de sistemas web, plataformas SaaS, aplicaciones progresivas y sistemas de información con control de accesos, seguridad y arquitectura modular. Me enfoco en crear soluciones escalables, confiables y bien estructuradas, con interés en proyectos profesionales, académicos y trabajo freelance.
   </p>
-  <p>
-Soy Ingeniera de Sistemas graduada, orientada al diseño e implementación de sistemas de software complejos. Cuento con experiencia en desarrollo de sistemas web, plataformas SaaS, aplicaciones progresivas y sistemas de información con control de accesos, seguridad y arquitectura modular. Me enfoco en crear soluciones escalables, confiables y bien estructuradas, con interés en proyectos profesionales, académicos y trabajo freelance.
-  </p>
 </div>
 
 <br>
@@ -35,10 +32,6 @@ Soy Ingeniera de Sistemas graduada, orientada al diseño e implementación de si
   <h2 style="margin-top:0;">Professional profile (English)</h2>
   <p> 
 I am a  Systems Engineer, focused on the design and implementation of complex software systems. I have experience developing web systems, SaaS platforms, progressive web applications, and information systems with access control, security, and modular architecture. I am focused on building scalable, reliable, and well-structured solutions, with interest in professional projects, academic work, and freelance opportunities.
-  </p>
-  <p>
-I am a  Systems Engineer, focused on the design and implementation of complex software systems. I have experience developing web systems, SaaS platforms, progressive web applications, and information systems with access control, security, and modular architecture. I am focused on building scalable, reliable, and well-structured solutions, with interest in professional projects, academic work, and freelance opportunities.
-
   </p>
 </div>
 
