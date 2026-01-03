@@ -1,163 +1,262 @@
-# Hola, soy Alex Márquez
+<!-- ===================== -->
+<!--  GitHub Profile README -->
+<!--  User: alexmarqueeez   -->
+<!-- ===================== -->
 
-**HealthTech · Desarrollo Full Stack · Liderazgo · Emprendimiento**
+<h1 align="center">Hola, soy Alex Márquez</h1>
 
----
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=700&color=00C2FF&center=true&vCenter=true&width=820&height=60&lines=HealthTech;Desarrollo+Full+Stack;Liderazgo;Emprendimiento"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-## Perfil profesional
+<p align="center">
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Bolivia-0B1220?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Perfil-Software%20Engineer-0B1220?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Perfil-Systems%20Engineer-0B1220?style=for-the-badge" />
+</p>
 
-Soy **Ingeniero de Sistemas** y estudiante de **Ingeniería Biomédica** (inicio 2026), con enfoque en el diseño y desarrollo de sistemas tecnológicos aplicados a salud, educación, servicios y soluciones inteligentes.  
-Trabajo en la creación de **sistemas web modernos**, **plataformas full stack**, **aplicaciones progresivas (PWA)** y **sistemas experimentales**, combinando arquitectura modular, buenas prácticas de software y una visión orientada al impacto social.
+<hr>
 
-Me interesa resolver problemas reales mediante tecnología, especialmente en áreas como **HealthTech**, **automatización**, **sistemas de información**, **IoT aplicado** y, a futuro, **neuroingeniería**.  
-Busco oportunidades profesionales y académicas donde pueda aportar con compromiso, criterio técnico y capacidad de liderazgo, así como fortalecer mi perfil para **empresas tecnológicas** y **programas de becas**.
+<!-- ===================== -->
+<!--  ABOUT / SOBRE MI     -->
+<!-- ===================== -->
 
----
+<div style="border:1px solid #30363d; border-radius:14px; padding:18px; background:#0b1220;">
+  <h2 style="margin-top:0;">Perfil profesional</h2>
+  <p>
+    Soy <b>Ingeniero de Sistemas</b> y estudiante de <b>Ingeniería Biomédica</b> (inicio 2026), con enfoque en el diseño y desarrollo de
+    sistemas tecnológicos aplicados a salud, educación, servicios y soluciones inteligentes.
+    Construyo <b>sistemas web modernos</b>, <b>plataformas full stack</b> y <b>sistemas experimentales</b>, con arquitectura modular,
+    buenas prácticas y enfoque en impacto real.
+  </p>
+  <p>
+    Me interesan especialmente <b>HealthTech</b>, automatización, sistemas de información, integración de APIs, IoT aplicado y, a futuro, <b>neuroingeniería</b>.
+    Busco oportunidades donde pueda aportar con criterio técnico, responsabilidad y liderazgo; además de fortalecer mi perfil para
+    <b>empresas</b> y <b>programas de becas</b>.
+  </p>
+</div>
 
-## Professional profile (English)
+<br>
 
-I am a **Systems Engineer** and **Biomedical Engineering student** (starting 2026), focused on designing and developing technological systems for healthcare, education, services, and intelligent solutions.  
-I work on **modern web systems**, **full stack platforms**, **progressive web applications (PWA)**, and **experimental systems**, applying modular architectures, software best practices, and a strong social-impact perspective.
+<div style="border:1px solid #30363d; border-radius:14px; padding:18px; background:#0b1220;">
+  <h2 style="margin-top:0;">Professional profile (English)</h2>
+  <p>
+    I am a <b>Systems Engineer</b> and a <b>Biomedical Engineering student</b> (starting 2026), focused on building technology for healthcare,
+    education, services and intelligent systems. I develop <b>modern web systems</b>, <b>full stack platforms</b> and <b>experimental solutions</b>
+    using modular architectures, solid engineering practices and real-world impact as a priority.
+  </p>
+  <p>
+    My interests include <b>HealthTech</b>, automation, information systems, API integration, applied IoT, and future work in <b>neuroengineering</b>.
+    I am seeking professional and academic opportunities to contribute with technical rigor and leadership, and to strengthen my profile for
+    <b>companies</b> and <b>scholarship programs</b>.
+  </p>
+</div>
 
-My main interests include **HealthTech**, **automation**, **information systems**, **applied IoT**, and future work in **neuroengineering**.  
-I am seeking professional and academic opportunities where I can contribute with technical rigor, leadership, and continuous learning.
+<br>
 
----
+<!-- ===================== -->
+<!--  LINKS / CONTACT       -->
+<!-- ===================== -->
 
-## Áreas de interés
+<p align="center">
+  <a href="TU_LINK_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="TU_LINK_GITHUB_PAGES_PORTAFOLIO_AQUI"><img src="https://img.shields.io/badge/Website-0B1220?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:TU_CORREO_AQUI"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-- Sistemas automatizados y plataformas inteligentes  
-- Desarrollo Full Stack (frontend + backend)  
-- HealthTech y sistemas clínicos  
-- Sistemas educativos y evaluación digital  
-- IoT aplicado a salud, ciudades y mascotas  
-- Neuroingeniería (línea futura de investigación)  
+<hr>
 
----
+<!-- ===================== -->
+<!--  INTERESTS (CONTAINERS) -->
+<!-- ===================== -->
 
-## Proyectos destacados
+<h2>Áreas de interés</h2>
 
-### PetGuard  
-**Aplicación web y móvil para el monitoreo y gestión integral de mascotas.**  
-Incluye seguimiento de salud, ubicación, actividad y visualización de datos.  
-Tecnologías: Next.js, APIs externas, Python, mapas y visualización interactiva.  
-Proyecto de emprendimiento tecnológico.
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <div style="border:1px solid #30363d; border-radius:12px; padding:10px 12px; background:#0b1220;">Sistemas automatizados</div>
+  <div style="border:1px solid #30363d; border-radius:12px; padding:10px 12px; background:#0b1220;">Desarrollo web y plataformas</div>
+  <div style="border:1px solid #30363d; border-radius:12px; padding:10px 12px; background:#0b1220;">HealthTech y sistemas clínicos</div>
+  <div style="border:1px solid #30363d; border-radius:12px; padding:10px 12px; background:#0b1220;">Sistemas educativos seguros</div>
+  <div style="border:1px solid #30363d; border-radius:12px; padding:10px 12px; background:#0b1220;">IoT aplicado (ESP32, sensores, GPS)</div>
+  <div style="border:1px solid #30363d; border-radius:12px; padding:10px 12px; background:#0b1220;">Neuroingeniería (línea futura)</div>
+</div>
 
----
+<br>
 
-### Sistema de Gestión Bibliotecaria  
-**Sistema web para entorno educativo**, desarrollado como **Práctica Preprofesional**.  
-Incluye control de usuarios por rol, reservas, catálogo y reportes.  
-Tecnologías: PHP, JavaScript, CSS, Bootstrap, MySQL.
+<!-- ===================== -->
+<!--  TOP PROJECTS (CARDS)  -->
+<!--  Estilo similar a tu img 3 -->
+<!-- ===================== -->
 
----
+<h2>Top Projects</h2>
 
-### ELBA – Proyecto de Grado  
-**Sistema inteligente experimental** desarrollado como **Proyecto Final de Carrera**.  
-Implementado con arquitectura moderna y enfoque ético–tecnológico.  
-Tecnologías: Next.js, React, diseño modular y enfoque analítico.
+<p>
+  <a href="https://github.com/alexmarqueeez/siie-elba">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=siie-elba&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/alexmarqueeez/swg-library">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=swg-library&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
----
+<p>
+  <a href="https://github.com/alexmarqueeez/plataform-pet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=plataform-pet&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/alexmarqueeez/swie-bioscan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=swie-bioscan&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-## Proyectos (selección por áreas)
+<p>
+  <a href="https://github.com/alexmarqueeez/swie-cervix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=swie-cervix&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/alexmarqueeez/his-clinical">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarqueeez&repo=his-clinical&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-**Ingeniería de Software y Sistemas**
-- Sistemas SaaS B2B
-- Plataformas educativas seguras
-- Sistemas de reservas y pagos
-- Aplicaciones PWA orientadas a servicios
+<p align="right">
+  <a href="https://github.com/alexmarqueeez?tab=repositories">All projects</a>
+</p>
 
-**Ingeniería Biomédica y HealthTech**
-- Sistemas de gestión de tecnología biomédica
-- Sistemas de información hospitalaria
-- Análisis de imágenes médicas (rayos X, cáncer cervicouterino)
-- Aplicaciones clínicas y de salud mental
+<hr>
 
-**Sistemas Inteligentes e IoT**
-- Monitoreo ambiental y calidad del aire
-- Sistemas de alerta temprana
-- Smart City (control inteligente de velocidad)
-- IoT para salud y mascotas
+<!-- ===================== -->
+<!--  SKILLS (LIKE IMG 4)   -->
+<!-- ===================== -->
 
----
+<h2>Skills</h2>
 
-## Skills técnicos
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Website</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react,nextjs" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Programming</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,java,php,nodejs,flask" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Database</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+        <img src="https://img.shields.io/badge/Supabase-0B1220?style=for-the-badge&logo=supabase&logoColor=white" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Tools</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-### Lenguajes de programación
-- Python  
-- JavaScript  
-- Java  
-- HTML  
-- CSS  
+<h3>Operating Systems</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,kali" />
+</p>
 
-### Frameworks y librerías
-- Next.js  
-- React  
-- Flask  
-- Tailwind CSS  
-- Sass  
+<hr>
 
-### Bases de datos
-- PostgreSQL  
-- MySQL (XAMPP)  
-- Supabase  
-- Firebase  
+<!-- ===================== -->
+<!--  EDUCATION (CONTAINERS + LOGO) -->
+<!-- ===================== -->
 
-### Desarrollo y arquitectura
-- Full Stack Development  
-- Diseño modular  
-- UI / UX  
-- Sistemas web responsivos  
-- Integración de APIs  
+<h2>Education</h2>
 
-### IoT y sensores
-- ESP32  
-- Sensores ambientales  
-- GPS y monitoreo básico  
+<p align="left">
+  <!-- Logo UCB: si tienes uno oficial en tu repo, mejor usarlo desde /assets/ucb.png -->
+  <!-- Si no, reemplaza por una imagen tuya o elimina esta línea -->
+  <img src="TU_LOGO_UCB_AQUI" alt="UCB" height="52" />
+</p>
 
----
+<div style="display:flex; flex-wrap:wrap; gap:12px;">
+  <div style="border:1px solid #30363d; border-radius:14px; padding:14px; background:#0b1220; min-width:260px;">
+    <b>Universidad Católica Boliviana “San Pablo” – Sede Tarija</b><br>
+    Ingeniería de Sistemas<br>
+    Estado: Finalizada
+  </div>
 
-## Sistemas operativos
+  <div style="border:1px solid #30363d; border-radius:14px; padding:14px; background:#0b1220; min-width:260px;">
+    <b>Universidad Católica Boliviana “San Pablo” – Sede Tarija</b><br>
+    Ingeniería Biomédica<br>
+    Estado: Inicio 2026
+  </div>
 
-- Windows 10 / 11  
-- Linux Ubuntu  
-- Kali Linux  
+  <div style="border:1px solid #30363d; border-radius:14px; padding:14px; background:#0b1220; min-width:260px;">
+    <b>Idiomas</b><br>
+    Español: Nativo<br>
+    Inglés: B1
+  </div>
+</div>
 
----
+<hr>
 
-## Educación
+<!-- ===================== -->
+<!--  ACHIEVEMENTS (like img 7, contrast B/W) -->
+<!-- ===================== -->
 
-### Universidad Católica Boliviana “San Pablo” – Sede Tarija  
-**Ingeniería de Sistemas**  
-Finalizada
+<h2>Logros</h2>
 
-### Universidad Católica Boliviana “San Pablo” – Sede Tarija  
-**Ingeniería Biomédica**  
-Inicio: 2026
+<p align="center">
+  <img src="https://img.shields.io/badge/Liderazgo%20estudiantil-0B1220?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Emprendimiento%20tecnol%C3%B3gico-0B1220?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackathons%20y%20prototipos-0B1220?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/HealthTech%20%7C%20Sistemas%20cl%C3%ADnicos-0B1220?style=for-the-badge&logoColor=white" />
+</p>
 
----
+<div style="border:1px solid #30363d; border-radius:14px; padding:16px; background:#0b1220;">
+  <ul>
+    <li>Portafolio con proyectos de Ingeniería de Software, HealthTech, IoT y sistemas experimentales.</li>
+    <li>Participación en iniciativas académicas, institucionales y de emprendimiento.</li>
+    <li>Enfoque en control de accesos por rol, modularidad, y soluciones listas para contexto real.</li>
+  </ul>
+</div>
 
-## Idiomas
+<hr>
 
-- Español: Nativo  
-- Inglés: Nivel B1  
+<!-- ===================== -->
+<!--  GRAPH (like img 8)    -->
+<!-- ===================== -->
 
----
+<h2>Activity Graph</h2>
 
-## Logros y participación
+<p>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=alexmarqueeez&theme=tokyo-night&hide_border=true"
+    alt="Activity Graph"
+  />
+</p>
 
-- Desarrollo de más de 20 proyectos académicos y experimentales  
-- Participación en hackatones y proyectos institucionales  
-- Reconocimiento local en iniciativas tecnológicas  
-- Experiencia en liderazgo estudiantil y emprendimiento  
-- Proyectos presentados en contextos académicos y municipales  
+<hr>
 
----
+<!-- ===================== -->
+<!--  STATS (Optional, clean) -->
+<!-- ===================== -->
 
-## Actividad y evolución
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexmarqueeez&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-Mi perfil refleja una evolución constante en proyectos de **ingeniería de software**, **HealthTech**, **sistemas inteligentes** y **experimentación tecnológica**, con enfoque en aprendizaje continuo y mejora progresiva.
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexmarqueeez&theme=tokyonight&hide_border=true" />
+</p>
 
----
+<hr>
 
-© 2026 — Alex Márquez
+<p align="center">© 2026 — Alex Márquez</p>
