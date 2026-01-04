@@ -3,7 +3,7 @@
 <!--  User: alexmarqueeez   -->
 <!-- ===================== -->
 
-<h1 align="center">Hola, soy Alex Márquez</h1>
+<h1 align="center">Alex Márquez</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
