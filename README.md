@@ -4,15 +4,12 @@
 <!-- ===================== -->
 
 <h1 align="center">Alex Márquez</h1>
-
-<p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=700&color=00C2FF&center=true&vCenter=true&width=820&height=60&lines=HealthTech;Desarrollo+Full+Stack;Liderazgo;Emprendimiento"
       alt="Typing SVG"
     />
   </a>
-</p>
 <hr>
 
 <!-- ===================== -->
